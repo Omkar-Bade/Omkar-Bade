@@ -1,1 +1,253 @@
+<!-- ⚠️ BANNER PLACEHOLDER — uncomment the line below once "banner (1).svg" is added to the repo -->
+<!-- ![Profile Banner](./banner%20(1).svg) -->
 
+<div align="center">
+
+# Omkar Bade
+
+![Profile Views](https://komarev.com/ghpvc/?username=Omkar-Bade&color=00D9FF&style=flat-square&label=Profile+Views)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/Omkar-Bade?style=flat-square&label=Followers&color=00D9FF)
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=45&lines=Software+Engineer;Full-Stack+Developer;Python+Enthusiast;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
+</a>
+
+*✨ Transforming ideas into scalable software through code, curiosity, and continuous learning. ✨*
+
+🎓 **B.Tech in AI & Data Science** — DKTE Society's Textile & Engineering Institute, Ichalkaranji (3rd Year)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Connect With Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:badeomkar89@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omkar-bade-85951132a)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/johnsnow2406)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Omkar_bade/)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### ⚙️ Frameworks & Backend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Monaco Editor](https://img.shields.io/badge/Monaco_Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=java&logoColor=white)
+![Servlets](https://img.shields.io/badge/Servlets-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+### 🔧 Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌟 Featured Project — CodeVision
+
+<a href="https://github.com/Omkar-Bade/CodeVision">
+  <img src="https://img.shields.io/badge/🔗_CodeVision-00D9FF?style=for-the-badge&logoColor=white" alt="CodeVision"/>
+</a>
+
+**An interactive Python code visualization platform** that helps beginners understand program execution *step-by-step* — showing what happens in memory during execution, rather than just running code.
+
+✅ Step-by-step code execution visualization &nbsp;•&nbsp;
+✅ Variable & memory tracking  
+✅ Function call visualization &nbsp;•&nbsp;
+✅ Execution timeline  
+✅ Beginner-friendly syntax error explanations &nbsp;•&nbsp;
+✅ Save programs + JWT authentication
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![Monaco Editor](https://img.shields.io/badge/Monaco_Editor-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 Other Projects
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🗳️ [Voting App](https://github.com/Omkar-Bade/Voting-_app)
+A complete **Java-based voting management system** with admin/voter login, candidate management, secure authentication, and a results dashboard. Built from scratch *(no AI-generated code)* to strengthen Java fundamentals.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Servlets](https://img.shields.io/badge/Servlets-ED8B00?style=flat-square&logo=java&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=flat-square&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### ⌨️ [Virtual Keyboard](https://github.com/Omkar-Bade/Virtual_keyboard)
+A **gesture-controlled virtual keyboard** using computer vision — hand tracking, finger detection, hover-based key press, and a smoothing algorithm for accurate input.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 📊 Impact At A Glance
+
+</div>
+
+<table align="center">
+<tr><td>💻</td><td><strong>LeetCode Problems Solved</strong></td><td><code>190+</code></td></tr>
+<tr><td>🚀</td><td><strong>Major Projects Built</strong></td><td><code>3+</code></td></tr>
+<tr><td>🌐</td><td><strong>Full-Stack Projects</strong></td><td><code>2+</code></td></tr>
+<tr><td>💻</td><td><strong>Primary Languages</strong></td><td><code>Python • Java • SQL</code></td></tr>
+<tr><td>📜</td><td><strong>Professional Certificates</strong></td><td><code>4+</code></td></tr>
+<tr><td>🎓</td><td><strong>Current Education</strong></td><td><code>B.Tech AI & DS (3rd Year)</code></td></tr>
+</table>
+
+---
+
+<div align="center">
+
+## ✅ What I Build
+
+✔️ **Scalable Backend Systems** — APIs and architectures built to last  
+✔️ **Full-Stack Applications** — From database to UI, end-to-end  
+✔️ **Developer Tools** — Building tools that make learning code easier  
+✔️ **Problem-First Engineering** — Debugging and understanding before shipping
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔬 Currently Exploring
+
+🐍 Advanced Python & Libraries  
+⚙️ Backend Development & APIs  
+🌐 Full-Stack Systems
+
+</div>
+
+---
+
+<div align="center">
+
+## 📜 Certifications & Workshops
+
+</div>
+
+<table align="center">
+<tr><td>🛩️</td><td><strong>C-DAC Drone Bootcamp</strong></td><td>PX4, Gazebo, Embedded Systems, Drone Tech, IoT, OpenCV</td></tr>
+<tr><td>📊</td><td><strong>Deloitte Australia — Data Analytics Job Simulation</strong></td><td>Data Analysis, Tableau, Dashboard Design</td></tr>
+<tr><td>☕</td><td><strong>Java Workshop by C-DAC</strong></td><td>Core Java, OOP, JDBC, MySQL</td></tr>
+<tr><td>🐳</td><td><strong>Metamorphosis 2K26</strong></td><td>GoLang, Docker, DevOps Basics</td></tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🏆 Hackathons & Community
+
+🏅 **CodeKshetra Hackathon** — Built CodeVision with teammates Shahid & Diksha  
+🧑‍💻 **GeeksforGeeks Campus Body** — Active Member  
+🤝 **Member of SDC** (Software Development Club)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Open To
+
+🔗 **Collaborations** — Open-source, hackathons, and impactful projects  
+💼 **Opportunities** — Software Engineering Internships & Full-Time SDE roles  
+👨‍💻 **Mentorship** — Learning from and building with experienced engineers
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Omkar-Bade&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00FFB3&text_color=FFFFFF&count_private=true" width="48%" alt="GitHub Stats"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar-Bade&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" width="40%" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Omkar-Bade&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00FFB3&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=888888" width="60%" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Omkar-Bade&bg_color=0D1117&color=00D9FF&line=00FFB3&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true" width="90%" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏅 LeetCode Stats
+
+<img src="https://leetcard.jacoblin.cool/Omkar_bade?theme=dark&font=Roboto&ext=heatmap&border=0&radius=10" width="55%" alt="LeetCode Stats"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:00FFB3&height=120&section=footer" width="100%" alt="Footer Wave"/>
+
+</div>
