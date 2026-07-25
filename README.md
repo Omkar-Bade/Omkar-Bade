@@ -271,8 +271,7 @@ A **gesture-controlled virtual keyboard** using computer vision — hand trackin
 <p align="center">
   🏅 <strong>CodeKshetra Hackathon</strong> — Built CodeVision with teammates Shahid & Diksha<br/>
   🧑‍💻 <strong>GeeksforGeeks Campus Body</strong> — Active Member<br/>
-  🤝 <strong>Volunteer, DSSA CodeKshetra 2K26</strong><br/>
-  🚀 <strong>Project Lead, SDC</strong> (Software Development Club)
+  🤝 <strong>Member of SDC</strong> (Software Development Club)
 </p>
 
 ---
@@ -321,39 +320,7 @@ A **gesture-controlled virtual keyboard** using computer vision — hand trackin
   <img src="https://leetcard.jacoblin.cool/Omkar_bade?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" width="55%" alt="LeetCode Stats"/>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🏆 GITHUB TROPHIES                                                       -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<h3 align="center">🏆 GitHub Trophies</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Omkar-Bade&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" width="80%" alt="GitHub Trophies"/>
-</p>
-
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🔥 FOOTER CTA BUTTONS                                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">⚡ Quick Links</h2>
-
-<p align="center">
-  <a href="https://github.com/Omkar-Bade?tab=repositories"><img src="https://img.shields.io/badge/🔍_View_All_Projects-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="All Projects"/></a>
-  &nbsp;
-  <a href="https://github.com/Omkar-Bade/CodeVision"><img src="https://img.shields.io/badge/🌟_CodeVision-00D9FF?style=for-the-badge&logoColor=white" alt="CodeVision"/></a>
-  &nbsp;
-  <a href="https://drive.google.com/file/d/1nP3cMawfA4C4YBoYu5O_ATZUZbCEcYfb/view?usp=drive_link"><img src="https://img.shields.io/badge/📄_Resume-00FFB3?style=for-the-badge&logoColor=white" alt="Resume"/></a>
-  &nbsp;
-  <a href="https://leetcode.com/u/Omkar_bade/"><img src="https://img.shields.io/badge/💡_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=2000&color=00D9FF&center=true&vCenter=true&repeat=true&width=500&height=30&lines=Thanks+for+visiting!+Let's+build+something+amazing+together+🚀" alt="Footer Typing SVG" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:00FFB3&height=120&section=footer" width="100%" alt="Footer Wave"/>
