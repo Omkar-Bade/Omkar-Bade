@@ -298,28 +298,6 @@ A **gesture-controlled virtual keyboard** using computer vision — hand trackin
 
 </div>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ⚡  FOOTER CTA + WAVE                                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## ⚡ Quick Links
-
-[![All Projects](https://img.shields.io/badge/🔍_View_All_Projects-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Omkar-Bade?tab=repositories)
-&nbsp;
-[![CodeVision](https://img.shields.io/badge/🌟_CodeVision-00D9FF?style=for-the-badge&logoColor=white)](https://github.com/Omkar-Bade/CodeVision)
-&nbsp;
-[![Resume](https://img.shields.io/badge/📄_Resume-00FFB3?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1nP3cMawfA4C4YBoYu5O_ATZUZbCEcYfb/view?usp=drive_link)
-&nbsp;
-[![LeetCode](https://img.shields.io/badge/💡_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Omkar_bade/)
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:00FFB3&height=120&section=footer" width="100%" alt="Footer Wave"/>
