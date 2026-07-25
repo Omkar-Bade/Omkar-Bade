@@ -25,9 +25,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Omkar-Bade&color=00D9FF&style=for-the-badge&label=Profile+Views)
 &nbsp;
 [![Followers](https://img.shields.io/github/followers/Omkar-Bade?label=Followers&style=for-the-badge&color=00FFB3&logo=github&logoColor=white)](https://github.com/Omkar-Bade?tab=followers)
-
-<br/>
-<br/>
+<br>
 </div>
 
 ---
@@ -151,15 +149,6 @@ A **gesture-controlled virtual keyboard** using computer vision — hand trackin
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-### 🔮 More Projects Coming Soon…
-
-![Status](https://img.shields.io/badge/🚧_In_Progress-FFD700?style=flat-square&logoColor=black)
 
 </td>
 </tr>
