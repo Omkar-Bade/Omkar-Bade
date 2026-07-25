@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:00FFB3&height=220&section=header&text=Omkar%20Santosh%20Bade&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descSize=16&descAlignY=55&descAlign=50" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:00FFB3&height=220&section=header&text=Omkar%20Santosh%20Bade&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20DS%20Student%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descSize=16&descAlignY=55&descAlign=50" width="100%" alt="Header Banner"/>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
