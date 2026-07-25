@@ -223,10 +223,9 @@ A **gesture-controlled virtual keyboard** using computer vision — hand trackin
 <h2 align="center">🔬 Currently Exploring</h2>
 
 <p align="center">
-  🔬 Spring Boot & Advanced Backend Architecture<br/>
-  ⚙️ System Design & REST API Best Practices<br/>
-  🛡️ Backend Security & Performance Optimization<br/>
-  📚 Open Source Contributions
+  🐍 Advanced Python & Libraries<br/>
+  ⚙️ Backend Development & APIs<br/>
+  🌐 Full-Stack Systems
 </p>
 
 ---
