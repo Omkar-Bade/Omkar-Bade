@@ -1,44 +1,133 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 220" preserveAspectRatio="none" width="1440" height="220">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320" preserveAspectRatio="none" width="1440" height="320">
   <defs>
+    <!-- Main wave gradient -->
     <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" style="stop-color:#00FFB3;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#00D9FF;stop-opacity:1" />
+      <stop offset="45%" style="stop-color:#00D9FF;stop-opacity:1" />
       <stop offset="100%" style="stop-color:#0D1117;stop-opacity:1" />
     </linearGradient>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <!-- Background gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#0a1a14;stop-opacity:1" />
-      <stop offset="40%" style="stop-color:#0d1520;stop-opacity:1" />
+      <stop offset="30%" style="stop-color:#0d1520;stop-opacity:1" />
       <stop offset="100%" style="stop-color:#0D1117;stop-opacity:1" />
     </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="4" result="blur" />
-      <feComposite in="SourceGraphic" in2="blur" operator="over" />
-    </filter>
-    <filter id="softGlow">
-      <feGaussianBlur stdDeviation="8" result="blur" />
+    <!-- Text glow gradient -->
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00FFB3;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#00D9FF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FFFFFF;stop-opacity:1" />
+    </linearGradient>
+    <!-- Glow filters -->
+    <filter id="textGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
       <feMerge>
         <feMergeNode in="blur" />
         <feMergeNode in="SourceGraphic" />
       </feMerge>
     </filter>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="10" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <filter id="particleGlow">
+      <feGaussianBlur stdDeviation="2" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <!-- Animated wave clip -->
+    <clipPath id="waveClip">
+      <path d="M0,220 C160,180 320,260 480,210 C640,160 800,250 960,200 C1120,150 1280,230 1440,185 L1440,320 L0,320 Z" />
+    </clipPath>
   </defs>
-  
+
   <!-- Background -->
-  <rect width="1440" height="220" fill="url(#bgGrad)" />
-  
-  <!-- Subtle secondary wave (deeper, softer) -->
-  <path d="M0,160 C180,120 360,180 540,140 C720,100 900,170 1080,130 C1260,90 1350,150 1440,120 L1440,220 L0,220 Z" 
-        fill="url(#waveGrad)" opacity="0.15" />
-  
-  <!-- Main glow layer behind wave -->
-  <path d="M0,140 C160,100 320,180 480,130 C640,80 800,170 960,120 C1120,70 1280,150 1440,100 L1440,220 L0,220 Z" 
-        fill="url(#waveGrad)" opacity="0.25" filter="url(#softGlow)" />
-  
+  <rect width="1440" height="320" fill="url(#bgGrad)" />
+
+  <!-- Subtle grid lines for tech feel -->
+  <g opacity="0.04" stroke="#00D9FF" stroke-width="0.5">
+    <line x1="0" y1="60" x2="1440" y2="60" />
+    <line x1="0" y1="120" x2="1440" y2="120" />
+    <line x1="0" y1="180" x2="1440" y2="180" />
+    <line x1="240" y1="0" x2="240" y2="320" />
+    <line x1="480" y1="0" x2="480" y2="320" />
+    <line x1="720" y1="0" x2="720" y2="320" />
+    <line x1="960" y1="0" x2="960" y2="320" />
+    <line x1="1200" y1="0" x2="1200" y2="320" />
+  </g>
+
+  <!-- Floating particles -->
+  <g filter="url(#particleGlow)">
+    <circle cx="120" cy="80" r="2" fill="#00FFB3" opacity="0.6">
+      <animate attributeName="cy" values="80;60;80" dur="4s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.6;0.2;0.6" dur="4s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="350" cy="50" r="1.5" fill="#00D9FF" opacity="0.5">
+      <animate attributeName="cy" values="50;35;50" dur="3.5s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.5;0.15;0.5" dur="3.5s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="600" cy="70" r="2.5" fill="#00D9FF" opacity="0.4">
+      <animate attributeName="cy" values="70;50;70" dur="5s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.4;0.1;0.4" dur="5s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="900" cy="45" r="1.8" fill="#00FFB3" opacity="0.5">
+      <animate attributeName="cy" values="45;30;45" dur="3s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.5;0.2;0.5" dur="3s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1100" cy="90" r="2" fill="#00D9FF" opacity="0.35">
+      <animate attributeName="cy" values="90;70;90" dur="4.5s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.35;0.1;0.35" dur="4.5s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1300" cy="55" r="1.5" fill="#00FFB3" opacity="0.45">
+      <animate attributeName="cy" values="55;40;55" dur="3.8s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.45;0.15;0.45" dur="3.8s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="200" cy="140" r="1" fill="#FFFFFF" opacity="0.3">
+      <animate attributeName="cy" values="140;125;140" dur="5.5s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="750" cy="110" r="1.2" fill="#FFFFFF" opacity="0.25">
+      <animate attributeName="cy" values="110;95;110" dur="4.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1050" cy="130" r="1" fill="#FFFFFF" opacity="0.2">
+      <animate attributeName="cy" values="130;118;130" dur="6s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <!-- Name text with glow -->
+  <text x="720" y="115" text-anchor="middle" font-family="'Segoe UI', Roboto, Arial, sans-serif" font-size="52" font-weight="700" fill="url(#textGrad)" filter="url(#textGlow)" letter-spacing="2">
+    Omkar Santosh Bade
+  </text>
+
+  <!-- Subtitle -->
+  <text x="720" y="155" text-anchor="middle" font-family="'Segoe UI', Roboto, Arial, sans-serif" font-size="18" font-weight="400" fill="#00D9FF" opacity="0.85" letter-spacing="4">
+    AI &amp; DS Student  •  Full-Stack Developer  •  Problem Solver
+  </text>
+
+  <!-- Decorative line under subtitle -->
+  <line x1="520" y1="175" x2="920" y2="175" stroke="url(#waveGrad)" stroke-width="1" opacity="0.4" />
+
+  <!-- Deep background wave -->
+  <path d="M0,250 C200,210 400,270 600,235 C800,200 1000,265 1200,230 C1350,205 1400,240 1440,225 L1440,320 L0,320 Z"
+        fill="url(#waveGrad)" opacity="0.1" />
+
+  <!-- Mid glow wave -->
+  <path d="M0,240 C180,200 360,270 540,225 C720,180 900,260 1080,215 C1200,185 1340,240 1440,210 L1440,320 L0,320 Z"
+        fill="url(#waveGrad)" opacity="0.2" filter="url(#softGlow)" />
+
   <!-- Primary wave -->
-  <path d="M0,140 C160,100 320,180 480,130 C640,80 800,170 960,120 C1120,70 1280,150 1440,100 L1440,220 L0,220 Z" 
-        fill="url(#waveGrad)" opacity="0.85" />
-  
-  <!-- Top accent wave (thin, subtle) -->
-  <path d="M0,150 C180,110 360,185 540,138 C720,90 900,175 1080,125 C1200,90 1340,140 1440,108" 
-        fill="none" stroke="url(#waveGrad)" stroke-width="1.5" opacity="0.5" />
+  <path d="M0,240 C180,200 360,270 540,225 C720,180 900,260 1080,215 C1200,185 1340,240 1440,210 L1440,320 L0,320 Z"
+        fill="url(#waveGrad)" opacity="0.8" />
+
+  <!-- Wave highlight stroke -->
+  <path d="M0,240 C180,200 360,270 540,225 C720,180 900,260 1080,215 C1200,185 1340,240 1440,210"
+        fill="none" stroke="#00FFB3" stroke-width="1.5" opacity="0.35" />
+
+  <!-- Secondary front wave for depth -->
+  <path d="M0,265 C200,240 400,280 600,252 C800,224 1000,275 1200,248 C1350,230 1410,260 1440,245 L1440,320 L0,320 Z"
+        fill="url(#waveGrad)" opacity="0.45" />
 </svg>

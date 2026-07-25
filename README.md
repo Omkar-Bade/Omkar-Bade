@@ -6,7 +6,6 @@
 
 <div align="center">
 
-# Omkar Bade
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Omkar-Bade&color=00D9FF&style=flat-square&label=Profile+Views)
 &nbsp;
