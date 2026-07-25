@@ -1,10 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🎨 ANIMATED WAVING BANNER                                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Omkar-Bade/Omkar-Bade/main/header_banner.png" width="100%" alt="Omkar Santosh Bade — AI & DS Student | Full-Stack Developer | Problem Solver"/>
-</p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 🖼️ PROFILE PHOTO + BADGES                                               -->
