@@ -1,10 +1,10 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 🎨  HEADER WAVE BANNER                                       -->
+<!-- 🎨  ANIMATED METEOR BANNER                                    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-![Header Wave](./header-wave.svg)
+![Profile Banner](./banner.svg)
 
 </div>
 
