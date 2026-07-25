@@ -14,7 +14,7 @@
 
 <div align="center">
 
-# **OMKAR BADE**
+# **OMKAR SANTOSH BADE**
 
 ### **AI & Data Science Student • Python Developer • Java Backend Developer**
 
@@ -297,6 +297,8 @@ A **gesture-controlled virtual keyboard** using computer vision — hand trackin
 <img src="https://leetcard.jacoblin.cool/Omkar_bade?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" width="55%" alt="LeetCode Stats"/>
 
 </div>
+
+---
 
 <div align="center">
 
