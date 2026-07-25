@@ -1,5 +1,8 @@
-<!-- ⚠️ BANNER PLACEHOLDER — uncomment the line below once "banner (1).svg" is added to the repo -->
-<!-- ![Profile Banner](./banner%20(1).svg) -->
+<div align="center">
+
+![Header Wave](./header-wave.svg)
+
+</div>
 
 <div align="center">
 
