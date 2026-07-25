@@ -9,12 +9,16 @@
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 🖼️  PROFILE PHOTO + BADGES                                   -->
+<!-- 🚀  HERO SECTION                                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Omkar-Bade/Omkar-Bade/main/Profile.png" width="170" style="border-radius:50%;" alt="Omkar Santosh Bade"/>
+# **OMKAR BADE**
+
+### **AI & Data Science Student • Python Developer • Java Backend Developer**
+
+*“Building intelligent software with Python, Java, and AI—one project at a time.”*
 
 <br/>
 
@@ -22,15 +26,14 @@
 &nbsp;
 [![Followers](https://img.shields.io/github/followers/Omkar-Bade?label=Followers&style=for-the-badge&color=00FFB3&logo=github&logoColor=white)](https://github.com/Omkar-Bade?tab=followers)
 
-<!-- ⌨️  ANIMATED TYPING SVG -->
+<br/>
+<br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=620&height=50&lines=Software+Engineer;Full-Stack+Developer;Python+Enthusiast;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
-</a>
-
-*✨ Transforming ideas into scalable software through code, curiosity, and continuous learning. ✨*
-
-🎓 **B.Tech in AI & Data Science** — DKTE Society's Textile & Engineering Institute, Ichalkaranji (3rd Year)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omkar-bade-85951132a)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:badeomakr89@gmail.com)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Omkar_bade/)
 
 </div>
 
