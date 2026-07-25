@@ -18,8 +18,6 @@
   <a href="https://github.com/Omkar-Bade"><img src="https://komarev.com/ghpvc/?username=Omkar-Bade&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views"/></a>
   &nbsp;
   <a href="https://github.com/Omkar-Bade?tab=followers"><img src="https://img.shields.io/github/followers/Omkar-Bade?label=Followers&style=for-the-badge&color=00FFB3&logo=github&logoColor=white" alt="Followers"/></a>
-  &nbsp;
-  <a href="https://github.com/Omkar-Bade?tab=repositories"><img src="https://img.shields.io/github/stars/Omkar-Bade?label=Total%20Stars&style=for-the-badge&color=FFD700&logo=github&logoColor=white" alt="Stars"/></a>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
