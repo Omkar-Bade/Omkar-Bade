@@ -202,10 +202,9 @@ A **gesture-controlled virtual keyboard** using computer vision — hand trackin
 
 ## 🔬 Currently Exploring
 
-🔬 Spring Boot & Advanced Backend Architecture  
-⚙️ System Design & REST API Best Practices  
+🔬 Advance python and Libraries  
+⚙️ System Design & API Designs  
 🛡️ Backend Security & Performance Optimization  
-📚 Open Source Contributions
 
 </div>
 
@@ -241,7 +240,7 @@ A **gesture-controlled virtual keyboard** using computer vision — hand trackin
 🏅 **CodeKshetra Hackathon** — Built CodeVision with teammates Shahid & Diksha  
 🧑‍💻 **GeeksforGeeks Campus Body** — Active Member  
 🤝 **Volunteer, DSSA CodeKshetra 2K26**  
-🚀 **Project Lead, SDC** (Software Development Club)
+🚀 **Member at, SDC** (Software Development Club)
 
 </div>
 
