@@ -1,4 +1,4 @@
-<![CDATA[<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 🎨 ANIMATED WAVING BANNER                                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
@@ -320,4 +320,3 @@ A **gesture-controlled virtual keyboard** using computer vision — hand trackin
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:00FFB3&height=120&section=footer" width="100%" alt="Footer Wave"/>
 </p>
-]]>
