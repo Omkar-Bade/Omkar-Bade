@@ -263,30 +263,6 @@ A **gesture-controlled virtual keyboard** using computer vision — hand trackin
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 📈  GITHUB STATS                                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 📈 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Omkar-Bade&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00FFB3&text_color=FFFFFF&count_private=true" width="48%" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar-Bade&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" width="40%" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Omkar-Bade&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00FFB3&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=888888" width="60%" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Omkar-Bade&bg_color=0D1117&color=00D9FF&line=00FFB3&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true" width="90%" alt="Contribution Graph"/>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 🏅  LEETCODE STATS                                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
